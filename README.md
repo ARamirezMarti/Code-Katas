@@ -5,8 +5,8 @@
 In this repository you will see the solutions for the Katas 
 
 ### Kyu 7
-* [*16+18=214*](Javascript/Kyu7/16+18=214).
-* [*swap vowels' case*](Javascript/Kyu6/swap_vowels'_case).
+* [*16+18=214*](Javascript/Kuy7/16%2B18%3D214).
+* [*swap vowels' case*](Javascript/Kuy7/swap_vowels'_case).
 
 ### Kyu 6
 * [*Who likes it?*](Javascript/Kyu6/Who_likes_it?).
