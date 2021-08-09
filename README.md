@@ -13,6 +13,8 @@ In this repository you will see the solutions for the Katas
 * [*Backspaces in string*](Javascript/Kyu6/Backspaces_in_string).
 * [*Persistent_Bugger*](Javascript/Kyu6/Persistent_Bugger).
 * [*Multiples_of_3_or_5*](Javascript/Kyu6/Multiples_of_3_or_5).
+* [*Counting_duplicates*](Javascript/Kyu6/Counting_duplicates).
+
 
 ## Python  Katas
 
