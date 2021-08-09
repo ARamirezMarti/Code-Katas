@@ -15,5 +15,11 @@ In this repository you will see the solutions for the Katas
 * [*Multiples_of_3_or_5*](Javascript/Kyu6/Multiples_of_3_or_5).
 
 ## Python  Katas
+
+### Kyu 8
 * [*Sum of Positive*](Python/Kyu8/Sum_of_positive).
+
+### Kyu 7
+* [*Even or odd which is greater*](Python/Kyu7/Even_or_Odd-Which_is_greater).
+
 
