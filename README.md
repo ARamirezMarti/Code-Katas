@@ -1,6 +1,6 @@
 # Code-Katas
 
-## Code War Katas
+## Javascript  Katas
 
 In this repository you will see the solutions for the Katas 
 
@@ -13,3 +13,7 @@ In this repository you will see the solutions for the Katas
 * [*Backspaces in string*](Javascript/Kyu6/Backspaces_in_string).
 * [*Persistent_Bugger*](Javascript/Kyu6/Persistent_Bugger).
 * [*Multiples_of_3_or_5*](Javascript/Kyu6/Multiples_of_3_or_5).
+
+## Python  Katas
+* [*Sum of Positive*](Python/Kyu8/Sum_of_positive).
+
