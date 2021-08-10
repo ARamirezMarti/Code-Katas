@@ -2,7 +2,7 @@
 
 ## Javascript  Katas
 
-In this repository you will see the solutions for the Katas 
+In this repository you will see the solutions for the Katas in Code Wars
 
 ### Kyu 7
 * [*16+18=214*](Javascript/Kuy7/16%2B18%3D214).
@@ -23,5 +23,6 @@ In this repository you will see the solutions for the Katas
 
 ### Kyu 7
 * [*Even or odd which is greater*](Python/Kyu7/Even_or_Odd-Which_is_greater).
+* [*Square every digit*](Python/Kyu7/Square_Every_Digit).
 
 

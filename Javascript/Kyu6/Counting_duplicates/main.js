@@ -32,14 +32,6 @@ function duplicateCount(text){
     return word_repeated_counter
 }
 
-
-
-
-
-
-
-
-
  console.log(duplicateCount(""), 0);
 console.log(duplicateCount("abcde"), 0); 
 console.log(duplicateCount("aabbcde"), 2);
