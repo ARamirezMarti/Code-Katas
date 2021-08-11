@@ -11,9 +11,10 @@ In this repository you will see the solutions for the Katas in Code Wars
 ### Kyu 6
 * [*Who likes it?*](Javascript/Kyu6/Who_likes_it).
 * [*Backspaces in string*](Javascript/Kyu6/Backspaces_in_string).
-* [*Persistent_Bugger*](Javascript/Kyu6/Persistent_Bugger).
-* [*Multiples_of_3_or_5*](Javascript/Kyu6/Multiples_of_3_or_5).
-* [*Counting_duplicates*](Javascript/Kyu6/Counting_duplicates).
+* [*Persistent Bugger*](Javascript/Kyu6/Persistent_Bugger).
+* [*Multiples of 3 or 5*](Javascript/Kyu6/Multiples_of_3_or_5).
+* [*Counting duplicates*](Javascript/Kyu6/Counting_duplicates).
+* [*Your order please*](Javascript/Kyu6/Your_order,please).
 
 
 ## Python  Katas
